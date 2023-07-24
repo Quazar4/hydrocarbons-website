@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Methane",
+      "formula": "CH4",
+      "description": "Methane is the primary component of natural gas."
+    },
+    {
+      "name": "Ethane",
+      "formula": "C2H6",
+      "description": "Ethane is used as a petrochemical feedstock for ethylene production."
+    }
+]
+  
